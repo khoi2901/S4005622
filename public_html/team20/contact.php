@@ -55,18 +55,3 @@
             <button type="submit">Login</button>
         </form>
     </div>
-
-    <div class="discussion-container">
-        <div class="post">
-            <div class="user-avatar">
-                <img src="user_avatar1.png" alt="User Avatar">
-            </div>
-            <div class="post-content">
-                <h2>example post</h2>
-                <p>User replied x minutes ago</p>
-            </div>
-        </div>
-
-    <script src="script.js"></script>
-</body>
-</html>

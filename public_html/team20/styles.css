@@ -108,30 +108,30 @@ body {
 
 /* Existing styles remain unchanged */
 
-.additional-buttons {
+.sideBar-buttons {
     background-color: white;
     padding: 20px;
    /* Adjust margin to create space between menu and additional buttons */
 }
 
-.additional-buttons ul {
+.sideBar-buttons ul {
     list-style: none;
     padding: 0;
 }
 
-.additional-buttons li {
+.sideBar-buttons li {
     margin-bottom: 10px;
     display: flex;
     align-items: center;
 }
 
-.additional-buttons li img {
+.sideBar-buttons li img {
     width: 20px; /* Adjust the width of the square image */
     height: 20px; /* Adjust the height of the square image */
     margin-right: 10px; /* Add space between the image and the button */
 }
 
-.additional-buttons li button {
+.sideBar-buttons li button {
     background: none;
     border: none;
     padding: 0;
@@ -140,15 +140,15 @@ body {
     cursor: pointer;
 }
 
-.additional-buttons li button:hover {
+.sideBart-buttons li button:hover {
     text-decoration: underline;
 }
-.special-button {
+.createPost-button {
     display: flex;
     justify-content: flex-start;
 }
 
-.orange-button {
+.createPost-button {
     background-color: orangered;
     color: white;
     padding: 10px 20px;
@@ -159,7 +159,7 @@ body {
     margin-left: 10px; /* Adjust margin as needed */
 }
 
-.orange-button:hover {
+.createPost-button:hover {
     background-color:orangered;
 }
 
