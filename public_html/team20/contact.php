@@ -35,7 +35,7 @@
       
             
         <ul>
-            <li><img src="square_image1.png" alt="Square Image"> <a href='home.html'>Home</a></li>
+            <li><img src="square_image1.png" alt="Square Image"> <a href='homepage.php'>Home</a></li>
             <li><img src="square_image1.png" alt="Square Image"><a href='home.html'>Trending</a></li>
             <li><img src="square_image2.png" alt="Square Image"><a href='home.html'>Foryou</a></li>
             <li><img src="square_image3.png" alt="Square Image"><a href='home.html'>Community A</a></li>

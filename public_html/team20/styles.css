@@ -105,58 +105,54 @@ body {
 
 
 
-
-/* Existing styles remain unchanged */
-
-.sideBar-buttons {
-    background-color: white;
-    padding: 20px;
-   /* Adjust margin to create space between menu and additional buttons */
+.sideBar li img {
+    width: 20px;
+    /* Adjust the width of the square image */
+    height: 20px;
+    /* Adjust the height of the square image */
+    margin-right: 10px;
+    /* Add space between the image and the button */
 }
 
-.sideBar-buttons ul {
-    list-style: none;
-    padding: 0;
+.sidebar ul li a {
+    text-decoration: none;
+    color: black;
 }
 
-.sideBar-buttons li {
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-}
-
-.sideBar-buttons li img {
-    width: 20px; /* Adjust the width of the square image */
-    height: 20px; /* Adjust the height of the square image */
-    margin-right: 10px; /* Add space between the image and the button */
-}
-
-.sideBar-buttons li button {
+.sideBar li button {
     background: none;
     border: none;
     padding: 0;
     margin: 0;
     font-size: 16px;
     cursor: pointer;
+    color: black;
 }
 
-.sideBart-buttons li button:hover {
-    text-decoration: underline;
+.sideBar .createPost-button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+    text-decoration: none; 
 }
+
+
+
 .createPost-button {
     display: flex;
     justify-content: flex-start;
-}
-
-.createPost-button {
     background-color: orangered;
     color: white;
-    padding: 10px 20px;
+    padding: 5px 5px;
     border: none;
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    margin-left: 10px; /* Adjust margin as needed */
+    margin-left: 30px; /* Adjust margin as needed */
 }
 
 .createPost-button:hover {

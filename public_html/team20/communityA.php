@@ -46,29 +46,3 @@
 
        
     </div>
-
-    <div class="login-form" id="loginForm">
-        <h2>Login</h2>
-        <form>
-            <label for="username">Username:</label>
-            <input type="text" id="username" name="username"><br><br>
-            <label for="password">Password:</label>
-            <input type="password" id="password" name="password"><br><br>
-            <button type="submit">Login</button>
-        </form>
-    </div>
-
-    <div class="discussion-container">
-        <div class="post">
-            <div class="user-avatar">
-                <img src="user_avatar1.png" alt="User Avatar">
-            </div>
-            <div class="post-content">
-                <h2>example post</h2>
-                <p>User replied x minutes ago</p>
-            </div>
-        </div>
-
-    <script src="script.js"></script>
-</body>
-</html>
