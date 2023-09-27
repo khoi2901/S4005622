@@ -35,7 +35,7 @@
         </div>
       
         <ul>
-            <li><img src="square_image1.png" alt="Square Image"> <a href='home.html'>Home</a></li>
+            <li><img src="square_image1.png" alt="Square Image"> <a href='homepage.php'>Home</a></li>
             <li><img src="square_image1.png" alt="Square Image"><a href='trending.php'>Trending</a></li>
             <li><img src="square_image2.png" alt="Square Image"><a href='home.html'>Foryou</a></li>
             <li><img src="square_image3.png" alt="Square Image"><a href='communityA.php'>Community A</a></li>
@@ -45,4 +45,15 @@
         </ul>
 
        
+    </div>
+
+    <div class="login-form" id="loginForm">
+        <h2>Login</h2>
+        <form>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password"><br><br>
+            <button type="submit">Login</button>
+        </form>
     </div>

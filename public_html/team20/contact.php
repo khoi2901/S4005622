@@ -28,21 +28,23 @@
 
 
       <div class="content-container">
-    <div class="sidebar-buttons">
-        <div class="createPost-button">
+    <div class="sidebar">
+
+    <div class="createPost-button">
             <button class="createPost-button">Create Post?</button>
         </div>
       
-            
         <ul>
             <li><img src="square_image1.png" alt="Square Image"> <a href='homepage.php'>Home</a></li>
-            <li><img src="square_image1.png" alt="Square Image"><a href='home.html'>Trending</a></li>
+            <li><img src="square_image1.png" alt="Square Image"><a href='trending.php'>Trending</a></li>
             <li><img src="square_image2.png" alt="Square Image"><a href='home.html'>Foryou</a></li>
-            <li><img src="square_image3.png" alt="Square Image"><a href='home.html'>Community A</a></li>
-            <li><img src="square_image4.png" alt="Square Image"><a href='home.html'>Community B</a></li>
-            <li><img src="square_image5.png" alt="Square Image"><a href='home.html'>Community C</a></li>
-            <li><img src="square_image6.png" alt="Square Image"><a href='home.html'>Community D</a></li>
+            <li><img src="square_image3.png" alt="Square Image"><a href='communityA.php'>Community A</a></li>
+            <li><img src="square_image4.png" alt="Square Image"><a href='communityB.php'>Community B</a></li>
+            <li><img src="square_image5.png" alt="Square Image"><a href='communityC.php'>Community C</a></li>
+            <li><img src="square_image6.png" alt="Square Image"><a href='communityD.php'>Community D</a></li>
         </ul>
+
+       
     </div>
 
     <div class="login-form" id="loginForm">
