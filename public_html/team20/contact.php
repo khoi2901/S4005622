@@ -28,7 +28,7 @@
 
 
       <div class="content-container">
-    <div class="additional-buttons">
+    <div class="sidebar-buttons">
         <div class="createPost-button">
             <button class="createPost-button">Create Post?</button>
         </div>
